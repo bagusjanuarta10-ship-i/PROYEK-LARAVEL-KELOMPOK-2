@@ -11,7 +11,7 @@
         <section class="w-full max-w-xl rounded-2xl bg-white p-8 text-center shadow-xl">
             <h1 class="text-3xl font-bold">Halo, selamat datang di website Kelompok 2</h1>
             <p class="mt-4 text-slate-600">Silakan buka halaman profil anggota kelompok.</p>
-            <div class="mt-6 flex flex-col justify-center gap-3 sm:flex-row">
+            <div class="mt-6 flex flex-col justify-center gap-3 sm:flex-row sm:flex-wrap">
                 <a href="/gusnan"
                    class="inline-flex justify-center rounded-lg bg-slate-900 px-6 py-3 font-semibold text-white transition hover:bg-slate-700">
                     Buka Profil Gusnan
@@ -19,6 +19,10 @@
                 <a href="/bagus"
                    class="inline-flex justify-center rounded-lg border border-slate-300 px-6 py-3 font-semibold text-slate-900 transition hover:bg-slate-100">
                     Buka Profil Bagus Januarta
+                </a>
+                <a href="/wisnu"
+                   class="inline-flex justify-center rounded-lg border border-slate-300 px-6 py-3 font-semibold text-slate-900 transition hover:bg-slate-100">
+                    Buka Profil Wisnu
                 </a>
             </div>
         </section>
