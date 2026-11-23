@@ -24,6 +24,10 @@
                    class="inline-flex justify-center rounded-lg border border-slate-300 px-6 py-3 font-semibold text-slate-900 transition hover:bg-slate-100">
                     Buka Profil Wisnu
                 </a>
+                <a href="/gusade"
+                   class="inline-flex justify-center rounded-lg border border-slate-300 px-6 py-3 font-semibold text-slate-900 transition hover:bg-slate-100">
+                    Buka Profil Gusade
+                </a>
             </div>
         </section>
     </main>
